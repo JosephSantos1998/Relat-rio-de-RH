@@ -8,6 +8,3 @@ Esse relatório é o resumo de funcionario que tem dentro da empresa.
 <img width="1433" height="822" alt="image" src="https://github.com/user-attachments/assets/e63abede-55ca-4831-acf0-bb47bde9d72c" />
 <img width="1463" height="812" alt="image" src="https://github.com/user-attachments/assets/54f9ba8a-dfa4-499e-a60c-d06290814b2d" />
 
-
-
-[Dashboard RH.pdf](https://github.com/user-attachments/files/26100866/Dashboard.RH.pdf)
