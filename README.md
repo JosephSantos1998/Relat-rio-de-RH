@@ -12,6 +12,7 @@ Onde o responsável do RH identifique padrões de acordo com a visão da empresa
 _____________________________________________________________________________________________________________________________________
 
 📈 Principais Análises
+_____________________________________________________________________________________________________________________________________
 . Números de Funcionários da empresa ( Ativos, Contratações, Desligamentos) 
 . Números de Funcionários da empresa por areá ( Adminitração, Comercial, Operações, Logistica e Financeiro)
 . Nível de funcinários da empresa ( Analista, Estagiário, Coordenador, Gerente e Diretor).
@@ -19,6 +20,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________________
 
 🛠️ Ferramentas Utilizadas
+_____________________________________________________________________________________________________________________________________
 . Power BI Desktop
 . Power Query
 . Linguagem DAX
