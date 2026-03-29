@@ -13,18 +13,21 @@ ________________________________________________________________________________
 
 📈 Principais Análises
 _____________________________________________________________________________________________________________________________________
-. Números de Funcionários da empresa ( Ativos, Contratações, Desligamentos) 
-. Números de Funcionários da empresa por areá ( Adminitração, Comercial, Operações, Logistica e Financeiro)
-. Nível de funcinários da empresa ( Analista, Estagiário, Coordenador, Gerente e Diretor).
-. Análise do perfil do Funcionário. 
+* Números de Funcionários da empresa ( Ativos, Contratações, Desligamentos) 
+
+* Números de Funcionários da empresa por areá ( Adminitração, Comercial, Operações, Logistica e Financeiro)
+
+* Nível de funcinários da empresa ( Analista, Estagiário, Coordenador, Gerente e Diretor).
+
+* Análise do perfil do Funcionário. 
 _____________________________________________________________________________________________________________________________________
 
 🛠️ Ferramentas Utilizadas
 _____________________________________________________________________________________________________________________________________
-. Power BI Desktop
-. Power Query
-. Linguagem DAX
-. Modelagem e tratamento de dados
+* Power BI Desktop
+* Power Query
+* Linguagem DAX
+* Modelagem e tratamento de dados
 
 <img width="1415" height="788" alt="image" src="https://github.com/user-attachments/assets/f82b6fc7-bd6d-413d-85fb-fb314cf96ee9" />
 
