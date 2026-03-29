@@ -3,6 +3,7 @@ Esse relatório é o resumo de funcionario que tem dentro da empresa.
 
 📊 Power BI – Relatório de RH.
 _____________________________________________________________________________________________________________________________________
+Este projeto apresenta um dashboard desenvolvido no Power BI para uma empresa fictícia do setor de RH, analisando a performance dos funcionários da empresa. 
 
 <img width="1415" height="788" alt="image" src="https://github.com/user-attachments/assets/f82b6fc7-bd6d-413d-85fb-fb314cf96ee9" />
 
